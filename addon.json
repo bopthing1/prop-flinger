@@ -7,6 +7,8 @@
 		"*.psd",
 		"*.vcproj",
 		"*.svn*",
-        "*.jpg"
+        "*.jpg",
+        "*.git",
+        "*.gitignore"
 	]
 }
